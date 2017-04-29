@@ -153,7 +153,7 @@ def main():
             if checkout_exclude and i['name'] in checkout_exclude:
                 continue
 
-            info('Checkout: {0} -> {1}', i['name'], i['path'])
+            info('Checkout: {0} -> {1} from {2}', i['name'], i['path'], i['url'])
             debug('Repository URL: {0}', i['url'])
             debug('Local branch: {0}', i['branch'])
             checkout_repo(cwd, i)
