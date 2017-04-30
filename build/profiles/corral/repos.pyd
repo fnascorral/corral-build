@@ -194,7 +194,7 @@ repos += {
 repos += {
     "name": "py-ipfs-api",
     "path": "py-ipfs-api",
-    "url": "https://github.com/fnascorral/python-ipfs-api",
+    "url": "https://github.com/fnascorral/py-ipfs-api",
     "branch": "master"
 }
 
