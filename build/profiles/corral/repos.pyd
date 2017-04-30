@@ -40,8 +40,8 @@ repos += {
 repos += {
     "name": "ports",
     "path": "ports",
-    "url": "https://github.com/freebsd/freebsd-ports.git",
-    "branch": "branches/2017Q1"
+    "url": "https://github.com/fnascorral/ports.git",
+    "branch": "master"
 }
 
 repos += {
@@ -194,7 +194,7 @@ repos += {
 repos += {
     "name": "py-ipfs-api",
     "path": "py-ipfs-api",
-    "url": "https://github.com/ipfs/python-ipfs-api",
+    "url": "https://github.com/fnascorral/python-ipfs-api",
     "branch": "master"
 }
 
@@ -215,14 +215,14 @@ repos += {
 repos += {
     "name": "ds2",
     "path": "ds2",
-    "url": "https://github.com/jceel/ds2.git",
+    "url": "https://github.com/fnascorral/ds2.git",
     "branch": "master"
 }
 
 repos += {
     "name": "pwatch",
     "path": "pwatch",
-    "url": "https://github.com/jceel/pwatch.git",
+    "url": "https://github.com/fnascorral/pwatch.git",
     "branch": "master"
 }
 
